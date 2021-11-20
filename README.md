@@ -26,7 +26,7 @@ Users can play it with multiplayer and as well as with computer.
 
 
 
-Please Share your valuable feedback here :- https://forms.gle/99SHShu9S5iZdUMAA
+Please Share your valuable feedback here* :- https://forms.gle/99SHShu9S5iZdUMAA
 
 
 
