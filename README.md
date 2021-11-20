@@ -1,12 +1,12 @@
 # TicTacToe-
-TicTacToe game made with python . 
+TicTacToe game made with python. 
 
 
 
 
 
 
-Users can play it with multiplayer and as well as with computer
+Users can play it with multiplayer and as well as with computer.
 
 
 
